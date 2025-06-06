@@ -6,7 +6,7 @@
 ### 🧑‍💻 About Me
 
 - 🌱 I’m currently learning ** Frontend, Advanced React, TypeScript & Web Animation**
-- 👨‍💻 All of my projects are available at [My Portfolio](https://your-portfolio-link)
+- 👨‍💻 All of my projects are available at [My Portfolio](https://kartikay-dubey.github.io/myPortfolio/)
 - 🏆 Participated in **Hackathon, IoT Workshops**, and built 5+ personal projects
 - ⚡ Fun fact: I love exploring AI tools & love doing Vibe Coding
 
