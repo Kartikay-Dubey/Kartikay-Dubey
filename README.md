@@ -37,23 +37,16 @@
 
 ---
 
-### 📈 GitHub Stats
+## 📊 My GitHub Stats
 
 <p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=Kartikay-Dubey&show_icons=true&theme=tokyonight" />
-  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=Kartikay-Dubey&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Kartikay-Dubey&show_icons=true&theme=radical&hide_border=false&count_private=true" height="180"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Kartikay-Dubey&theme=radical&hide_border=false" height="180"/>
 </p>
+
 <p align="center">
-  <img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kartikay-Dubey&layout=compact&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kartikay-Dubey&langs_count=6&layout=compact&theme=radical&hide_border=false" height="180"/>
 </p>
-
----
-
-### 🧰 Tools I Use
-
-![Netlify](https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white)
-![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
-![Vercel](https://img.shields.io/badge/Vercel-000?style=for-the-badge&logo=vercel&logoColor=white)
 
 ---
 
