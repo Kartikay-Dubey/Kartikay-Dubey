@@ -1,16 +1,68 @@
-## Hi there 👋
+<h1 align="center">Hi 👋, I'm Kartikay Dubey</h1>
+<h3 align="center">🚀 A Frontend Developer passionate about crafting clean & responsive web apps</h3>
 
-<!--
-**Kartikay-Dubey/Kartikay-Dubey** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<img align="right" alt="Coding" width="350" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" />
 
-Here are some ideas to get you started:
+### 🧑‍💻 About Me
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🌱 I’m currently learning ** Frontend, Advanced React, TypeScript & Web Animation**
+- 👨‍💻 All of my projects are available at [My Portfolio](https://your-portfolio-link)
+- 🏆 Participated in **Hackathon, IoT Workshops**, and built 5+ personal projects
+- ⚡ Fun fact: I love exploring AI tools & love doing Vibe Coding
+
+---
+
+### 🛠️ Skills
+- **Frontend:** HTML, CSS, JavaScript, React.js
+- **Backend:** Node.js, Express.js
+- **Database:** MySQL, MongoDB
+- **Tools:** Git, GitHub, VS Code, Netlify
+
+### 📌 Projects
+- 🎵 [Swift Music Player](https://github.com/Kartikay-Dubey/Swift-Music-Player)
+- 🚚 [Logistic Optimiser](https://github.com/Kartikay-Dubey/Logistic-Optimiser)
+- 🌐 [Sail Site Clone](https://github.com/Kartikay-Dubey/Sail-Site-Clone)
+
+
+### 🚀 Tech Stack
+
+![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-121011?style=for-the-badge&logo=github&logoColor=white)
+![VS Code](https://img.shields.io/badge/VSCode-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+
+---
+
+### 📈 GitHub Stats
+
+<p align="center">
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=Kartikay-Dubey&show_icons=true&theme=tokyonight" />
+  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=Kartikay-Dubey&theme=tokyonight" />
+</p>
+<p align="center">
+  <img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kartikay-Dubey&layout=compact&theme=tokyonight" />
+</p>
+
+---
+
+### 🧰 Tools I Use
+
+![Netlify](https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
+![Vercel](https://img.shields.io/badge/Vercel-000?style=for-the-badge&logo=vercel&logoColor=white)
+
+---
+
+### 🌐 Let's Connect
+
+[![LinkedIn](https://img.shields.io/badge/Kartikay%20Dubey-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kartikay-dubey-98ba73313/)
+[![GitHub](https://img.shields.io/badge/Kartikay--Dubey-181717?style=for-the-badge&logo=github)](https://github.com/Kartikay-Dubey)
+[![Gmail](https://img.shields.io/badge/kartikay.email-red?style=for-the-badge&logo=gmail&logoColor=white)](kartikaydubey5074@gmail.com)
+
+---
+
+> “Code is like humor. When you have to explain it, it’s bad.” — Cory House
