@@ -5,7 +5,7 @@
 
 ### 🧑‍💻 About Me
 
-- 🌱 I’m currently learning ** Frontend, Advanced React, TypeScript & Web Animation**
+- 🌱 I’m currently learning **Frontend, Advanced React, TypeScript & Web Animation**
 - 👨‍💻 All of my projects are available at [My Portfolio](https://kd-webport.netlify.app)
 - 🏆 Participated in **Hackathon, IoT Workshops**, and built 5+ personal projects
 - ⚡ Fun fact: I love exploring AI tools & love doing Vibe Coding
@@ -37,16 +37,19 @@
 
 ---
 
-## 📊 My GitHub Stats
+## 📊 GitHub Activity & Stats
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Kartikay-Dubey&show_icons=true&theme=radical&hide_border=false&count_private=true" height="180"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Kartikay-Dubey&theme=radical&hide_border=false" height="180"/>
-</p>
+<div align="center">
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kartikay-Dubey&langs_count=6&layout=compact&theme=radical&hide_border=false" height="180"/>
-</p>
+  <img src="https://github-readme-stats.vercel.app/api?username=Kartikay-Dubey&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C3D1E5&icon_color=79C0FF" width="47%" />
+
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Kartikay-Dubey&theme=tokyonight&hide_border=true&background=0D1117&sideNums=58A6FF&dates=8B949E&sideLabels=79C0FF" width="47%"/>
+
+  <br><br>
+
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kartikay-Dubey&layout=donut&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=79C0FF&langs_count=8" width="60%"/>
+
+</div>
 
 ---
 
