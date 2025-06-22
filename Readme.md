@@ -2,7 +2,7 @@
 <h3 align="center">🚀 A Frontend Developer passionate about crafting clean & responsive web apps</h3>
 
 <p align="center">
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="80%" alt="Dark Neon Coding GIF"/>
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" height="40%" width="80%" alt="Dark Neon Coding GIF"/>
 </p>
 
 
