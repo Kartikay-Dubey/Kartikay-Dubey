@@ -1,7 +1,10 @@
 <h1 align="center">Hi 👋, I'm Kartikay Dubey</h1>
 <h3 align="center">🚀 A Frontend Developer passionate about crafting clean & responsive web apps</h3>
 
-<img align="right" alt="Coding" width="350" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" />
+<p align="center">
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="80%" alt="Dark Neon Coding GIF"/>
+</p>
+
 
 ### 🧑‍💻 About Me
 
