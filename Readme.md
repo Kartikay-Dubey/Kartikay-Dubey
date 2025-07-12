@@ -2,7 +2,7 @@
 <h3 align="center">🚀 A Frontend Developer passionate about crafting clean & responsive web apps</h3>
 
 <p align="center">
-  <img src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif" alt="Coding GIF" width="400"/>
+  <img src="https://media.giphy.com/media/iIqmM5tTjmpOB9mpbn/giphy.gif" alt="Coding GIF" width="400"/>
 </p>
 
 
