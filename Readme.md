@@ -2,8 +2,9 @@
 <h3 align="center">🚀 A Frontend Developer passionate about crafting clean & responsive web apps</h3>
 
 <p align="center">
-  <img src="https://undraw.co/api/illustrations/undraw_code_thinking_re_gka2.svg" alt="Vector Coding Illustration" width="400"/>
+  <img src="https://media.giphy.com/media/WTjXuYA2y4o3UZly3W/giphy.gif" alt="Vector Developer GIF" width="400"/>
 </p>
+
 
 
 
