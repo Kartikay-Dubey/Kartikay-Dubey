@@ -2,7 +2,7 @@
 <h3 align="center">🚀 A Frontend Developer passionate about crafting clean & responsive web apps</h3>
 
 <p align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212746035-d5c61762-973c-44c0-aec7-887f3b7690e3.gif" alt="Vector Developer GIF" width="400"/>
+  <img src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif" alt="Vector Developer GIF" width="400"/>
 </p>
 
 
