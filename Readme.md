@@ -25,7 +25,7 @@
 
 ### 📌 Projects
 - 🎵 [Swift Music Player](https://github.com/Kartikay-Dubey/Swift-Music-Player)
-- 🚚 [Logistic Optimiser](https://github.com/Kartikay-Dubey/Logistic-Optimiser)
+- 🔦 [SoloToolBox](https://solotoolbox.netlify.app/)
 - 🌐 [Sail Site Clone](https://github.com/Kartikay-Dubey/Sail-Site-Clone)
 
 
@@ -46,12 +46,15 @@
 
 <div align="center">
 
+  <!-- GitHub Stats -->
   <img src="https://github-readme-stats.vercel.app/api?username=Kartikay-Dubey&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C3D1E5&icon_color=79C0FF" width="47%" />
 
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Kartikay-Dubey&theme=tokyonight&hide_border=true&background=0D1117&sideNums=58A6FF&dates=8B949E&sideLabels=79C0FF" width="47%"/>
+  <!-- GitHub Streak -->
+  <img src="https://streak-stats.demolab.com?user=Kartikay-Dubey&theme=tokyonight&hide_border=true&background=0D1117&ring=58A6FF&fire=79C0FF&currStreakLabel=79C0FF&sideNums=58A6FF&dates=8B949E&sideLabels=79C0FF" width="47%" />
 
   <br><br>
 
+  <!-- Most Used Languages -->
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kartikay-Dubey&layout=donut&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=79C0FF&langs_count=8" width="60%"/>
 
 </div>
@@ -62,7 +65,9 @@
 
 [![LinkedIn](https://img.shields.io/badge/Kartikay%20Dubey-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kartikay-dubey-98ba73313/)
 [![GitHub](https://img.shields.io/badge/Kartikay--Dubey-181717?style=for-the-badge&logo=github)](https://github.com/Kartikay-Dubey)
-[![Gmail](https://img.shields.io/badge/kartikay.email-red?style=for-the-badge&logo=gmail&logoColor=white)](kartikaydubey5074@gmail.com)
+[![Gmail](https://img.shields.io/badge/kartikay.email-red?style=for-the-badge&logo=gmail&logoColor=white)](mailto:kartikaydubey5074@gmail.com)
+[![Instagram](https://img.shields.io/badge/altruistic__kd-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/altruistic_kd/)
+
 
 ---
 
