@@ -1,6 +1,6 @@
 <!-- 🖼️ Animated Heading -->
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=Hi+%F0%9F%91%8B%2C+I'm+Kartikay+Dubey;🚀+Frontend+Developer;Crafting+Clean+%26+Responsive+Web+Apps" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=Hi+%F0%9F%91%8B%2C+👋🏻I'm+Kartikay+Dubey;🚀+Frontend+Developer;Crafting+Clean+%26+Responsive+Web+Apps" alt="Typing SVG" />
 </h1>
 
 <p align="center">
@@ -27,11 +27,19 @@
 
 ---
 
-## 📌 Projects  
+## 📌 Featured Projects  
 
-[![Swift Music Player](https://img.shields.io/badge/🎵%20Swift%20Music%20Player-0D1117?style=for-the-badge&logo=spotify&logoColor=1DB954)](https://github.com/Kartikay-Dubey/Swift-Music-Player)  
-[![SoloToolBox](https://img.shields.io/badge/🧰%20SoloToolBox-0D1117?style=for-the-badge&logo=toolbox&logoColor=white)](https://solotoolbox.netlify.app/)  
-[![Sail Site Clone](https://img.shields.io/badge/🌐%20Sail%20Site%20Clone-0D1117?style=for-the-badge&logo=vercel&logoColor=white)](https://github.com/Kartikay-Dubey/Sail-Site-Clone)  
+<p align="center">
+  <a href="https://github.com/Kartikay-Dubey/Swift-Music-Player">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Kartikay-Dubey&repo=Swift-Music-Player&theme=tokyonight" />
+  </a>
+  <a href="https://github.com/Kartikay-Dubey/Sail-Site-Clone">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Kartikay-Dubey&repo=Sail-Site-Clone&theme=tokyonight" />
+  </a>
+  <a href="https://github.com/Kartikay-Dubey/Solo-ToolBox">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Kartikay-Dubey&repo=Solo-ToolBox&theme=tokyonight" />
+  </a>
+</p>
 
 ---
 
