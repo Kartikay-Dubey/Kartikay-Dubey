@@ -38,7 +38,7 @@
 ## 🚀 Tech Stack  
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nodejs,express,mysql,mongodb,git,github,vscode,netlify" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,mysql,mongodb,github,vscode,netlify" />
 </p>  
 
 ---
@@ -62,8 +62,8 @@
 ## 🏆 GitHub Trophies  
 
 <p align="center">
+   <img src="https://img.shields.io/badge/👨‍💻%20Open%20Source%20Enthusiast-0D1117?style=for-the-badge&logo=opensourceinitiative&logoColor=green" />
   <img src="https://img.shields.io/badge/⭐%20Star%20Contributor-0D1117?style=for-the-badge&logo=github&logoColor=white" />
-  <img src="https://img.shields.io/badge/👨‍💻%20Open%20Source%20Enthusiast-0D1117?style=for-the-badge&logo=opensourceinitiative&logoColor=green" />
   <img src="https://img.shields.io/badge/⚡%20100%2B%20Commits-0D1117?style=for-the-badge&logo=commitlint&logoColor=yellow" />
 </p>
 
