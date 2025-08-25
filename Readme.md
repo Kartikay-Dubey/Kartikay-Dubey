@@ -62,7 +62,9 @@
 ## 🏆 GitHub Trophies  
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Kartikay-Dubey&theme=tokyonight&no-frame=true&no-bg=true&margin-w=15&row=2&column=4" alt="trophies"/>
+  <img src="https://img.shields.io/badge/⭐%20Star%20Contributor-0D1117?style=for-the-badge&logo=github&logoColor=white" />
+  <img src="https://img.shields.io/badge/👨‍💻%20Open%20Source%20Enthusiast-0D1117?style=for-the-badge&logo=opensourceinitiative&logoColor=green" />
+  <img src="https://img.shields.io/badge/⚡%20100%2B%20Commits-0D1117?style=for-the-badge&logo=commitlint&logoColor=yellow" />
 </p>
 
 ---
