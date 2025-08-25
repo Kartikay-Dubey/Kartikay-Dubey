@@ -63,13 +63,13 @@
 
 ## 🏆 GitHub Trophies  
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Kartik_kd&theme=tokyonight&no-frame=true&no-bg=true&margin-w=15" />
+  <img src="https://github-profile-trophy.vercel.app/?username=Kartikay-Dubey&theme=tokyonight&no-frame=true&no-bg=true&margin-w=15" />
 </p>  
 
 ---
 
 ## 🐍 Contribution Snake  
-![Snake animation](https://github.com/Kartik_kd/Kartik-kd/blob/output/github-contribution-snake.svg)
+![Snake animation](https://github.com/Kartikay-Dubey/Kartikay-Dubey/blob/output/github-contribution-snake.svg)
 
 
 
