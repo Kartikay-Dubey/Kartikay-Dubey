@@ -59,16 +59,16 @@
 
 ---
 
---- 
 ## 🏆 GitHub Trophies  
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=kartikay-dubey&theme=tokyonight&no-frame=true&no-bg=true&margin-w=15&row=2&column=3" alt="trophies"/>
-</p>
 
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Kartikay-Dubey&theme=tokyonight&no-frame=true&no-bg=true&margin-w=15&row=2&column=4" alt="trophies"/>
+</p>
 
 ---
 
 ## 🐍 Contribution Snake  
+
 ![Snake animation](https://raw.githubusercontent.com/Kartikay-Dubey/Kartikay-Dubey/output/snake.svg)
 
 ---
@@ -91,4 +91,5 @@
 </p>  
 
 ---
+
 > “Code is like humor. When you have to explain it, it’s bad.” — Cory House
