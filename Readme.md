@@ -70,8 +70,9 @@
 
 ## 🐍 Contribution Snake  
 <p align="center">
-  <img src="https://github.com/Kartikay-Dubey/Kartikay-Dubey/blob/output/github-contribution-grid-snake.svg" alt="snake gif" />
-</p>  
+  <img src="https://github.com/Kartikay-Dubey/Kartikay-Dubey/blob/output/snake.svg" alt="Snake animation" />
+</p>
+
 
 ---
 
