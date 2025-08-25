@@ -59,8 +59,9 @@
 
 ---
 
-## 🏆 GitHub Trophies  
+---
 
+## 🏆 GitHub Trophies  
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=Kartikay-Dubey&theme=tokyonight&no-frame=true&no-bg=true&margin-w=15" />
 </p>  
@@ -68,20 +69,28 @@
 ---
 
 ## 🐍 Contribution Snake  
-
-![snake gif](https://github.com/Kartikay-Dubey/Kartikay-Dubey/blob/output/github-contribution-grid-snake.svg)  
+<p align="center">
+  <img src="https://github.com/Kartikay-Dubey/Kartikay-Dubey/blob/output/github-contribution-grid-snake.svg" alt="snake gif" />
+</p>  
 
 ---
 
 ## 🌐 Let's Connect  
 
-[![LinkedIn](https://img.shields.io/badge/Kartikay%20Dubey-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kartikay-dubey-98ba73313/)  
-[![GitHub](https://img.shields.io/badge/Kartikay--Dubey-181717?style=for-the-badge&logo=github)](https://github.com/Kartikay-Dubey)  
-[![Gmail](https://img.shields.io/badge/kartikay.email-red?style=for-the-badge&logo=gmail&logoColor=white)](mailto:kartikaydubey5074@gmail.com)  
-[![Instagram](https://img.shields.io/badge/altruistic__kd-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/altruistic_kd/)  
+<p align="center">
+  <a href="https://www.linkedin.com/in/kartikay-dubey-98ba73313/">
+    <img src="https://img.shields.io/badge/Kartikay%20Dubey-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://github.com/Kartikay-Dubey">
+    <img src="https://img.shields.io/badge/Kartikay--Dubey-181717?style=for-the-badge&logo=github" />
+  </a>
+  <a href="mailto:kartikaydubey5074@gmail.com">
+    <img src="https://img.shields.io/badge/kartikay.email-red?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://www.instagram.com/altruistic_kd/">
+    <img src="https://img.shields.io/badge/altruistic__kd-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
+  </a>
+</p>  
 
 ---
-
-## 🎧 Vibe Zone  
-> “Code, Coffee ☕, and Lo-Fi Beats 🎶 = Perfect Day”  
-
+> “Code is like humor. When you have to explain it, it’s bad.” — Cory House
