@@ -69,9 +69,7 @@
 ---
 
 ## 🐍 Contribution Snake  
-![Snake animation](https://github.com/Kartikay-Dubey/Kartikay-Dubey/blob/output/github-contribution-snake.svg)
-
-
+![Snake animation](https://raw.githubusercontent.com/Kartikay-Dubey/Kartikay-Dubey/output/snake.svg)
 
 ---
 
