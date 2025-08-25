@@ -18,28 +18,26 @@
 
 ---
 
-## 🛠️ Skills  
-
-**Frontend:** HTML, CSS, JavaScript, React.js  
-**Backend:** Node.js, Express.js  
-**Database:** MySQL, MongoDB  
-**Tools:** Git, GitHub, VS Code, Netlify  
-
----
-
 ## 📌 Featured Projects  
 
 <p align="center">
+  <a href="https://github.com/Kartikay-Dubey/LearningTracker">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Kartikay-Dubey&repo=LearningTracker&theme=tokyonight" />
+  </a>
+  <a href="https://github.com/Kartikay-Dubey/Solo-Tool-Box">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Kartikay-Dubey&repo=Solo-Tool-Box&theme=tokyonight" />
+  </a>
   <a href="https://github.com/Kartikay-Dubey/Swift-Music-Player">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=Kartikay-Dubey&repo=Swift-Music-Player&theme=tokyonight" />
   </a>
-  <a href="https://github.com/Kartikay-Dubey/Sail-Site-Clone">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Kartikay-Dubey&repo=Sail-Site-Clone&theme=tokyonight" />
-  </a>
-  <a href="https://github.com/Kartikay-Dubey/Solo-ToolBox">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Kartikay-Dubey&repo=Solo-ToolBox&theme=tokyonight" />
-  </a>
 </p>
+
+---
+
+<p align="center">  
+  <i>Some of my hands-on dev projects 🚀</i>  
+</p>
+
 
 ---
 
