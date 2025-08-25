@@ -17,10 +17,10 @@ with:
   outputs: dist/snake.svg
 
 
-      - name: Push Snake Animation to main branch
+      - name: Push Snake Animation to output branch
         uses: crazy-max/ghaction-github-pages@v3.1.0
         with:
-          target_branch: main
+          target_branch: output
           build_dir: dist
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
