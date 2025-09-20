@@ -24,18 +24,14 @@
   <a href="https://github.com/Kartikay-Dubey/LearningTracker">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=Kartikay-Dubey&repo=LearningTracker&theme=tokyonight&cache_seconds=1800" />
   </a>
-  <a href="https://github.com/Kartikay-Dubey/Solo-Tool-Box">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Kartikay-Dubey&repo=Solo-Tool-Box&theme=tokyonight&cache_seconds=1800" />
-  </a>
+
 </p>
 
 <p align="center">
   <a href="https://github.com/Kartikay-Dubey/Swift-Music-Player">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=Kartikay-Dubey&repo=Swift-Music-Player&theme=tokyonight&cache_seconds=1800" />
   </a>
-  <a href="https://github.com/Kartikay-Dubey/SQL-cheatsheet">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Kartikay-Dubey&repo=SQL-cheatsheet&theme=tokyonight&cache_seconds=1800" />
-  </a>
+
 </p>
 
 
