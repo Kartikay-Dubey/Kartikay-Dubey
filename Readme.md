@@ -36,7 +36,7 @@
 
 <p align="center">
   <a href="https://github.com/Kartikay-Dubey/myPortfolio">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Kartikay-Dubey&repo=Portfolio&theme=tokyonight&cache_seconds=1800" />
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Kartikay-Dubey&repo=myPortfolio&theme=tokyonight&cache_seconds=1800" />
   </a>
 
 </p>
