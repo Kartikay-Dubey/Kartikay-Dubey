@@ -20,7 +20,7 @@
 
 ## 📌 Featured Projects  
 
-<p align="center">
+<p align="left">
   <a href="https://github.com/Kartikay-Dubey/LearningTracker">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=Kartikay-Dubey&repo=LearningTracker&theme=tokyonight&cache_seconds=1800" />
   </a>
@@ -34,7 +34,7 @@
 
 </p>
 
-<p align="center">
+<p align="right">
   <a href="https://github.com/Kartikay-Dubey/Solo-Tool-Box">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=Kartikay-Dubey&repo=Solo-Tool-Box&theme=tokyonight&cache_seconds=1800" />
   </a>
