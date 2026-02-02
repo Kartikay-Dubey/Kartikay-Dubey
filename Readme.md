@@ -1,10 +1,10 @@
 <!-- 🖼️ Animated Heading -->
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=Hi+👋%2C+I'm+Kartikay+Dubey;🚀+Frontend+Developer;Crafting+Clean+%26+Responsive+Web+Apps" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=58A6FF&center=true&vCenter=true&width=650&lines=Hi+👋%2C+I'm+Kartikay+Dubey;🚀+Frontend+Developer;Crafting+Clean+%26+Responsive+Web+Apps" />
 </h1>
 
 <p align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif" alt="Developer GIF" width="380"/>
+  <img src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif" width="380" />
 </p>
 
 ---
@@ -14,8 +14,8 @@
 - 🌱 Currently learning **Frontend Development, Advanced React, TypeScript & Web Animations**  
 - 👨‍💻 Portfolio: **https://kd-webport.netlify.app**  
 - 🏆 Participated in **Hackathons & IoT Workshops**  
-- 🛠️ Built **5+ real-world personal projects**  
-- ⚡ Fun fact: I enjoy exploring **AI tools** & doing **Vibe Coding 🎧**
+- 🛠️ Built **5+ real-world projects**  
+- ⚡ Love exploring **AI tools** & doing **Vibe Coding 🎧**
 
 ---
 
@@ -24,7 +24,7 @@
 <div align="center">
 
 <a href="https://github.com/Kartikay-Dubey/LearningTracker">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Kartikay-Dubey&repo=LearningTracker&theme=react&hide_border=true" />
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Kartikay-Dubey&repo=LearningTracker&theme=tokyonight&bg_color=0D1117&hide_border=true" />
 </a>
 
 </div>
@@ -40,11 +40,11 @@
 <div align="center">
 
 <a href="https://github.com/Kartikay-Dubey/Swift-Music-Player">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Kartikay-Dubey&repo=Swift-Music-Player&theme=react&hide_border=true" />
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Kartikay-Dubey&repo=Swift-Music-Player&theme=tokyonight&bg_color=0D1117&hide_border=true" />
 </a>
 
 <a href="https://github.com/Kartikay-Dubey/Solo-Tool-Box">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Kartikay-Dubey&repo=Solo-Tool-Box&theme=react&hide_border=true" />
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Kartikay-Dubey&repo=Solo-Tool-Box&theme=tokyonight&bg_color=0D1117&hide_border=true" />
 </a>
 
 </div>
@@ -69,9 +69,9 @@
 
 <div align="center">
 
-<img width="48%" src="https://github-readme-stats.vercel.app/api?username=Kartikay-Dubey&show_icons=true&theme=react&hide_border=true&count_private=true" />
+<img width="48%" src="https://github-readme-stats.vercel.app/api?username=Kartikay-Dubey&show_icons=true&theme=tokyonight&bg_color=0D1117&hide_border=true" />
 
-<img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=Kartikay-Dubey&theme=react&hide_border=true" />
+<img width="48%" src="https://streak-stats.demolab.com?user=Kartikay-Dubey&theme=tokyonight&background=0D1117&hide_border=true" />
 
 </div>
 
@@ -80,12 +80,12 @@
 ### 💻 Most Used Languages  
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kartikay-Dubey&layout=compact&theme=react&hide_border=true&langs_count=8" width="50%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kartikay-Dubey&layout=compact&theme=tokyonight&bg_color=0D1117&hide_border=true" width="50%" />
 </div>
 
 ---
 
-## 🏆 Achievements & Highlights  
+## 🏆 Achievements  
 
 <p align="center">
   <img src="https://img.shields.io/badge/Open%20Source%20Enthusiast-0D1117?style=for-the-badge&logo=opensourceinitiative&logoColor=green" />
