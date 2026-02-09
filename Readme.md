@@ -28,33 +28,43 @@ Currently exploring **Advanced React, TypeScript & Web Animations**, while exper
 ## 🔥 Featured Project  
 
 <table>
-<tr>
-<td width="55%">
+  ## 🔥 Projects  
 
 ### 📘 Learning Tracker  
-A productivity-focused web app to track daily learning and habits.
+A productivity-focused web application designed to help users track their daily learning progress and build consistent habits.
 
-**Why this project stands out**
+**Key Highlights**
 - Clean & distraction-free UI  
-- Practical real-life use case  
-- Scalable component structure  
+- Practical real-world use case  
+- Scalable frontend structure  
 
-🔗 **Repository:**  
-https://github.com/Kartikay-Dubey/LearningTracker
-
-</td>
-<td width="45%">
-
-<img src="https://image2url.com/r2/default/images/1770609813214-b0447dfb-6571-44da-bbbe-60ae67916db3.png" />
-
-</td>
-</tr>
-</table>
+🔗 Repository: https://github.com/Kartikay-Dubey/LearningTracker  
 
 ---
 
-## ⚡ More Work  
+### 🎵 Swift Music Player  
+A modern music player application focused on smooth controls, responsive design, and an intuitive user experience.
 
+**Key Highlights**
+- Minimal & modern UI  
+- Smooth playback controls  
+- Responsive layout  
+
+🔗 Repository: https://github.com/Kartikay-Dubey/Swift-Music-Player  
+
+---
+
+### 🧰 Solo Tool Box  
+An all-in-one utility toolbox that brings multiple daily-use tools into a single, easy-to-use web interface.
+
+**Key Highlights**
+- Productivity-oriented design  
+- Multiple utilities in one platform  
+- Focus on usability & performance  
+
+🔗 Repository: https://github.com/Kartikay-Dubey/Solo-Tool-Box  
+
+</table>
 <table>
 <tr>
 <td width="50%">
