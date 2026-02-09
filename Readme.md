@@ -92,40 +92,60 @@ All-in-one toolbox for daily utilities and productivity tools.
 
 ## 📊 GitHub Insights  
 
-## 📊 GitHub Insights  
-
 <table>
 <tr>
 
-<td width="50%" align="center">
+<td width="33%" align="center">
 
-### 📈 Activity Overview  
-<img src="https://github-readme-stats.vercel.app/api?username=Kartikay-Dubey&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=86400" />
+### 🧑‍💻 Profile  
+<img src="https://img.shields.io/badge/Username-Kartikay--Dubey-5865F2?style=for-the-badge&logo=github" />
 
 </td>
 
-<td width="50%" valign="top">
+<td width="33%" align="center">
 
-### 🧠 What the numbers say
-- **191+ total contributions** across repositories  
-- Consistent hands-on practice with real projects  
-- Experience working with **frontend-focused codebases**  
-- Actively improving code quality & structure  
+### 🏗️ Focus  
+<img src="https://img.shields.io/badge/Primary%20Focus-Frontend%20Development-0DB7ED?style=for-the-badge&logo=react&logoColor=white" />
+
+</td>
+
+<td width="33%" align="center">
+
+### 🏠 Work Style  
+<img src="https://img.shields.io/badge/Mode-Working%20From%20Home-F97316?style=for-the-badge&logo=homeassistant&logoColor=white" />
 
 </td>
 
 </tr>
 </table>
 
----
+<br>
 
-### 🟩 Contribution Consistency
+<table>
+<tr>
 
-<p align="center">
-  <img src="https://ghchart.rshah.org/409EFF/Kartikay-Dubey" alt="GitHub contribution chart" />
-</p>
+<td width="50%" valign="top">
 
+### 📌 What this reflects
+- Active GitHub usage for **real project development**
+- Focus on **clean UI & frontend architecture**
+- Consistent hands-on learning via implementation  
+- Preference for **quality over artificial metrics**
 
+</td>
+
+<td width="50%" valign="top">
+
+### 🎯 Current Direction
+- Building frontend-heavy projects  
+- Improving React patterns & component structure  
+- Exploring TypeScript & modern UI practices  
+- Using AI tools to speed up development  
+
+</td>
+
+</tr>
+</table>
 
 ---
 
@@ -155,3 +175,10 @@ All-in-one toolbox for daily utilities and productivity tools.
 ---
 
 > **I don’t just write code — I design experiences people enjoy using.**
+
+
+### 🟩 Contribution Consistency
+
+<p align="center">
+  <img src="https://ghchart.rshah.org/409EFF/Kartikay-Dubey" alt="GitHub contribution chart" />
+</p>
