@@ -96,24 +96,32 @@ All-in-one toolbox for daily utilities and productivity tools.
 
 ## 📊 GitHub Insights  
 
-<p align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=Kartikay-Dubey&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=86400" />
-  <img width="49%" src="https://streak-stats.demolab.com?user=Kartikay-Dubey&theme=tokyonight&hide_border=true&cache_seconds=86400" />
-</p>
+## 📊 GitHub Insights  
 
-<p align="center">
-  <img width="45%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kartikay-Dubey&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=86400" />
-</p>
+<table>
+<tr>
 
----
+<td align="center" width="33%">
 
-## 🏆 Highlights  
+<img src="https://github-readme-stats.vercel.app/api?username=Kartikay-Dubey&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=86400" />
 
-<p align="center">
-  <img src="https://img.shields.io/badge/Open%20Source%20Enthusiast-0D1117?style=for-the-badge&logo=opensourceinitiative&logoColor=green" />
-  <img src="https://img.shields.io/badge/Consistent%20Learner-0D1117?style=for-the-badge&logo=github&logoColor=white" />
-  <img src="https://img.shields.io/badge/100%2B%20Commits-0D1117?style=for-the-badge&logo=commitlint&logoColor=yellow" />
-</p>
+</td>
+
+<td align="center" width="33%">
+
+<img src="https://streak-stats.demolab.com?user=Kartikay-Dubey&theme=tokyonight&hide_border=true&cache_seconds=86400" />
+
+</td>
+
+<td align="center" width="33%">
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kartikay-Dubey&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=86400" />
+
+</td>
+
+</tr>
+</table>
+
 
 ---
 
