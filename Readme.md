@@ -1,6 +1,6 @@
 <!-- 🖼️ Animated Heading -->
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=58A6FF&center=true&vCenter=true&width=650&lines=Hi+👋%2C+I'm+Kartikay+Dubey;🚀+Frontend+Developer;Crafting+Clean+%26+Responsive+Web+Apps" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=58A6FF&center=true&vCenter=true&width=650&lines=Hi+👋%2C+I'm+Kartikay+Dubey;🚀+Frontend+Developer;I+build+clean+%26+user-friendly+web+experiences" />
 </h1>
 
 <p align="center">
@@ -9,83 +9,103 @@
 
 ---
 
-## 🧑‍💻 About Me  
+## 🧠 Who Am I?
 
-- 🌱 Currently learning **Frontend Development, Advanced React, TypeScript & Web Animations**  
-- 👨‍💻 Portfolio: **https://kd-webport.netlify.app**  
-- 🏆 Participated in **Hackathons & IoT Workshops**  
-- 🛠️ Built **5+ real-world projects**  
-- ⚡ Love exploring **AI tools** & doing **Vibe Coding 🎧**
+I’m **Kartikay Dubey**, a frontend-focused developer who enjoys turning ideas into  
+**clean, responsive & user-friendly web experiences**.
+
+I care deeply about:
+- ✨ UI clarity & smooth interactions  
+- ⚙️ Scalable frontend logic  
+- 🚀 Building things people actually use  
+
+Currently exploring **Advanced React, TypeScript & Web Animations**, while experimenting with **AI-powered tools** to boost productivity.
+
+🌐 Portfolio: **https://kd-webport.netlify.app**
 
 ---
 
-## 🔥 Featured Projects  
+## 🔥 Featured Project  
 
-<div align="center">
+<table>
+<tr>
+<td width="55%">
 
-<a href="https://github.com/Kartikay-Dubey/LearningTracker">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Kartikay-Dubey&repo=LearningTracker&theme=tokyonight&bg_color=0D1117&hide_border=true" />
-</a>
+### 📘 Learning Tracker  
+A productivity-focused web app to track daily learning and habits.
 
-</div>
+**Why this project stands out**
+- Clean & distraction-free UI  
+- Practical real-life use case  
+- Scalable component structure  
+
+🔗 **Repository:**  
+https://github.com/Kartikay-Dubey/LearningTracker
+
+</td>
+<td width="45%">
+
+<img src="https://raw.githubusercontent.com/Kartikay-Dubey/LearningTracker/main/preview.png" />
+
+</td>
+</tr>
+</table>
+
+---
+
+## ⚡ More Work  
+
+<table>
+<tr>
+<td width="50%">
+
+### 🎵 Swift Music Player  
+Modern UI music player with smooth controls and responsive layout.  
+
+🔗 https://github.com/Kartikay-Dubey/Swift-Music-Player
+
+</td>
+
+<td width="50%">
+
+### 🧰 Solo Tool Box  
+All-in-one toolbox for daily utilities and productivity tools.  
+
+🔗 https://github.com/Kartikay-Dubey/Solo-Tool-Box
+
+</td>
+</tr>
+</table>
+
+---
+
+## 🚀 Tech I Work With  
+
+**Frontend:** HTML, CSS, JavaScript, React  
+**Backend (Basics):** Node.js, MongoDB, MySQL  
+**Tools:** GitHub, VS Code, Netlify  
+**Exploring:** TypeScript, Web Animations, AI Tools  
 
 <p align="center">
-  <i>A productivity-focused project built with clean UI & scalable logic 🚀</i>
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,mongodb,github,vscode,netlify" />
 </p>
 
 ---
 
-## ⚡ More Projects  
-
-<div align="center">
-
-<a href="https://github.com/Kartikay-Dubey/Swift-Music-Player">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Kartikay-Dubey&repo=Swift-Music-Player&theme=tokyonight&bg_color=0D1117&hide_border=true" />
-</a>
-
-<a href="https://github.com/Kartikay-Dubey/Solo-Tool-Box">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Kartikay-Dubey&repo=Solo-Tool-Box&theme=tokyonight&bg_color=0D1117&hide_border=true" />
-</a>
-
-</div>
+## 📊 GitHub Insights  
 
 <p align="center">
-  <i>Hands-on projects focusing on UI, functionality & performance</i>
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=Kartikay-Dubey&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=86400" />
+  <img width="49%" src="https://streak-stats.demolab.com?user=Kartikay-Dubey&theme=tokyonight&hide_border=true&cache_seconds=86400" />
+</p>
+
+<p align="center">
+  <img width="45%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kartikay-Dubey&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=86400" />
 </p>
 
 ---
 
-## 🚀 Tech Stack  
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,mysql,mongodb,github,vscode,netlify" />
-</p>
-
----
-
-## 📊 GitHub Stats  
-
-### 📈 Overview  
-
-<div align="center">
-
-<img width="48%" src="https://github-readme-stats.vercel.app/api?username=Kartikay-Dubey&show_icons=true&theme=tokyonight&bg_color=0D1117&hide_border=true" />
-
-<img width="48%" src="https://streak-stats.demolab.com?user=Kartikay-Dubey&theme=tokyonight&background=0D1117&hide_border=true" />
-
-</div>
-
-<br>
-
-### 💻 Most Used Languages  
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kartikay-Dubey&layout=compact&theme=tokyonight&bg_color=0D1117&hide_border=true" width="50%" />
-</div>
-
----
-
-## 🏆 Achievements  
+## 🏆 Highlights  
 
 <p align="center">
   <img src="https://img.shields.io/badge/Open%20Source%20Enthusiast-0D1117?style=for-the-badge&logo=opensourceinitiative&logoColor=green" />
@@ -95,13 +115,13 @@
 
 ---
 
-## 🐍 Contribution Snake  
+## 🐍 Contribution Activity  
 
 ![Snake animation](https://raw.githubusercontent.com/Kartikay-Dubey/Kartikay-Dubey/output/snake.svg)
 
 ---
 
-## 🌐 Let's Connect  
+## 🌐 Let’s Connect  
 
 <p align="center">
   <a href="https://www.linkedin.com/in/kartikay-dubey-98ba73313/">
@@ -120,5 +140,4 @@
 
 ---
 
-> **“Code is like humor. When you have to explain it, it’s bad.”**  
-> — Cory House
+> **I don’t just write code — I design experiences people enjoy using.**
