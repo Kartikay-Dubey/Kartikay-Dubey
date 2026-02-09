@@ -25,10 +25,7 @@ Currently exploring **Advanced React, TypeScript & Web Animations**, while exper
 
 ---
 
-## 🔥 Featured Project  
-
-
-## 🔥 Projects  
+## 🔥 Featured Project   
 
 <table>
 <tr>
@@ -78,7 +75,6 @@ All-in-one toolbox for daily utilities and productivity tools.
 </tr>
 </table>
 
-
 ---
 
 ## 🚀 Tech I Work With  
@@ -92,7 +88,7 @@ All-in-one toolbox for daily utilities and productivity tools.
   <img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,mongodb,github,vscode,netlify" />
 </p>
 
----
+--- 
 
 ## 📊 GitHub Insights  
 
@@ -101,26 +97,34 @@ All-in-one toolbox for daily utilities and productivity tools.
 <table>
 <tr>
 
-<td align="center" width="33%">
+<td width="50%" align="center">
 
+### 📈 Activity Overview  
 <img src="https://github-readme-stats.vercel.app/api?username=Kartikay-Dubey&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=86400" />
 
 </td>
 
-<td align="center" width="33%">
+<td width="50%" valign="top">
 
-<img src="https://streak-stats.demolab.com?user=Kartikay-Dubey&theme=tokyonight&hide_border=true&cache_seconds=86400" />
-
-</td>
-
-<td align="center" width="33%">
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kartikay-Dubey&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=86400" />
+### 🧠 What the numbers say
+- **191+ total contributions** across repositories  
+- Consistent hands-on practice with real projects  
+- Experience working with **frontend-focused codebases**  
+- Actively improving code quality & structure  
 
 </td>
 
 </tr>
 </table>
+
+---
+
+### 🟩 Contribution Consistency
+
+<p align="center">
+  <img src="https://ghchart.rshah.org/409EFF/Kartikay-Dubey" alt="GitHub contribution chart" />
+</p>
+
 
 
 ---
