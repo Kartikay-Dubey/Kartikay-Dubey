@@ -45,7 +45,7 @@ https://github.com/Kartikay-Dubey/LearningTracker
 </td>
 <td width="45%">
 
-<img src="https://raw.githubusercontent.com/Kartikay-Dubey/LearningTracker/main/preview.png" />
+<img src="https://image2url.com/r2/default/images/1770609813214-b0447dfb-6571-44da-bbbe-60ae67916db3.png" />
 
 </td>
 </tr>
